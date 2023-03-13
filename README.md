@@ -7,7 +7,7 @@ data science portfolio
 * Builded Model 1 for weekly return estimation through a flexible time period selection and equally weighted return per year.
 * Builded Model 2 for weekly return estimation through a retrospective time period selection and weighted return per yearly exponential decay.
 * Builded Model 3 to control model 2 through the same time period and weighted return per yearly decay through implemented Exponential Moving Average (EMA) .
-* Builded Cross-model of Model 1 and Model 2 for better forecast.
+* Builded Cross-model of Model 1 and Model 2 to reach best mmodel for forecast.
 
 ## Code and resources used
 * Python 3.9.15.
