@@ -11,7 +11,7 @@ data science portfolio
 * Crossmodel of Model 1 and Model 2 for more security of the forecast.
 
 Example: Estimated return for ING Bank:
-
+<img src="./Images/INGreturnanalysis20082010.jpg" alt="lasagna">
 ![](/Images/INGreturnanalysis20082010.jpg)
 ![](/Images/INGretrospectivereturnanalysis12years.jpg)
 ![](/Images/INGreturncrossanalysis2008201012years.jpg)
