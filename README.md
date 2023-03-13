@@ -9,7 +9,9 @@ data science portfolio
 * Model 2 for the weekly return estimation through flexible retrospective timeperiod selection and exponential weighted year relevanz for the return.
 * Model 3 for control of Model 2 through same timeperiod as Model 2 and weighted year relevanz implemented with the Formula for Exponential Moving Average (EMA) for the return.
 * Crossmodel of Model 1 and Model 2 for more security of the forecast.
+
 Example on the share of ING Bank:
+
 ![](https://github.com/crunchingdata/Emilio_Portfolio/blob/main/Images/ING_return_analysis_2008-2010.png)
 ![](https://github.com/crunchingdata/Emilio_Portfolio/blob/main/Images/ING_retrospective_return_analysis_12_Jahre.png)
 ![](https://github.com/crunchingdata/Emilio_Portfolio/blob/main/Images/ING_return_crossanalysis_2008-2010_12_years.png)
