@@ -7,5 +7,5 @@ data science portfolio
 * Preprocessed data from daily open and close prices to daily return with Python and library Pandas.
 * Model 1 for the weekly return estimation through flexible timeperiod selection and equaly weighted year relevanz for the return.
 * Model 2 for the weekly return estimation through felxible retrospective timeperiod selction and exponential weighted year relevanz for the return.
-* Model 3 for the weekly return estimation through same timeperiod as Model 2 and weighted year relevanz implemented with the Formula for Exponential Moving Average (EMA), thus is Model 3 created for control of Model 2.
+* Model 3 for conrol of Model 2 through same timeperiod as Model 2 and weighted year relevanz implemented with the Formula for Exponential Moving Average (EMA).
 * Crossmodel of Model 1 and Model 2 for more security of the forecast.
