@@ -5,12 +5,12 @@ data science portfolio
 * Implemented a search engine that accesses the identification of most shares on the market from API https://www.alphavantage.co/
 * Working per share on about in example ING Bank~[5877 rows x 9 columns] covering 20+ years of historical data from same API.
 * Preprocessed data from daily open and close prices to daily return with Python and library Pandas.
-* Model 1 for the weekly return estimation through flexible timeperiod selection and equaly weighted year relevanz for the return.
-* Model 2 for the weekly return estimation through flexible retrospective timeperiod selection and exponential weighted year relevanz for the return.
-* Model 3 for control of Model 2 through same timeperiod as Model 2 and weighted year relevanz implemented with the Formula for Exponential Moving Average (EMA) for the return.
-* Crossmodel of Model 1 and Model 2 for more security of the forecast.
+* Model 1 for the weekly return estimation through a flexible time period selection and equally weighted year relevant for the return.
+* Model 2 for the weekly return estimation through a flexible retrospective time period selection and exponential weighted year relevant for the return.
+* Model 3 for control of model 2 through the same time period as Model 2 and weighted year relevant implemented with the Formula for Exponential Moving Average (EMA) for the return.
+* Cross-model of Model 1 and Model 2 for more security of the forecast.
 
-Example: Estimated return for ING Bank:
+Example: Estimated return of ING Bank:
 
 ![](/Images/INGreturnanalysis20082010.jpg)
 ![](/Images/INGretrospectivereturnanalysis12years.jpg)
