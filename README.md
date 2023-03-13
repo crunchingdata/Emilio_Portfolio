@@ -8,12 +8,13 @@ data science portfolio
 * Builded Model 2 for weekly return estimation through a retrospective time period selection and weighted return per exponential yearly decay.
 * Builded Model 3 to control model 2 through the same time period as Model 2 and weighted return per yearly decay through implemented Exponential Moving Average (EMA) .
 * Builded Cross-model of Model 1 and Model 2 for better forecast.
+
 ## Code and resources used
 * Python 3.9.15.
 * Packages: pandas, numpy, math, plotly.express, plotly.graph_objects, requests, json.
 * dataset: Worked per company on about exemplary ING Bank~[5877 rows x 9 columns] covering 20+ years of historical data from API https://www.alphavantage.co/.
 
-Example: Estimated return of ING Bank:
+## Example: Estimated return of ING Bank
 
 ![](/Images/INGreturnanalysis20082010.jpg)
 ![](/Images/INGretrospectivereturnanalysis12years.jpg)
