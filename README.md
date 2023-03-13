@@ -22,6 +22,6 @@ data science portfolio
 
 ![](/Images/INGretrospectivereturnanalysis12years.jpg)
 
-* Builded Cross-model of Model 1 and Model 2 to reach best mmodel for forecast.
+* Builded Cross-model of Model 1 and Model 2 to reach best model for forecast.
 
 ![](/Images/INGreturncrossanalysis2008201012years.jpg)
