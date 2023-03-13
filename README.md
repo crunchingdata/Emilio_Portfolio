@@ -3,7 +3,7 @@ data science portfolio
 # Project 1 overview: Estimator of weekly return on share price
 * Created a tool that estimates the return per calendar week of a share to help private investors get a broad timing for orders over the year.
 * Implemented an exponential decay to optimize Exponential Moving Average (EMA).
-* Builded various models to reach best forecast for (equal) weighted average weekly return.
+* Built various models to reach best forecast for (equal) weighted average weekly return.
 
 ## Code and resources used
 * Python 3.9.15.
@@ -17,15 +17,15 @@ data science portfolio
 * Preprocessed daily return (equal) weighted weekly return.
 
 ## EDA exemplary on estimated return of ING Bank share price
-* Builded Model 1 for weekly return estimation through a flexible time period selection and equally weighted return per year.
+* Built Model 1 for weekly return estimation through a flexible time period selection and equally weighted return per year.
 
 ![](/Images/INGreturnanalysis20082010.jpg)
 
-* Builded Model 2 for weekly return estimation through a retrospective time period selection and weighted return per yearly exponential decay.
-* Builded Model 3 to control model 2 through the same time period and weighted return per yearly decay through implemented Exponential Moving Average (EMA).
+* Built Model 2 for weekly return estimation through a retrospective time period selection and weighted return per yearly exponential decay.
+* Built Model 3 to control model 2 through the same time period and weighted return per yearly decay through implemented Exponential Moving Average (EMA).
 
 ![](/Images/INGretrospectivereturnanalysis12years.jpg)
 
-* Builded Cross-model of Model 1 and Model 2 to reach best model for forecast.
+* Built Cross-model of Model 1 and Model 2 to reach best model for forecast.
 
 ![](/Images/INGreturncrossanalysis2008201012years.jpg)
