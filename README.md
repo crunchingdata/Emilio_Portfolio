@@ -14,11 +14,14 @@ data science portfolio
 
 ## EDA exemplary on estimated return of ING Bank share price
 * Builded Model 1 for weekly return estimation through a flexible time period selection and equally weighted return per year.
+
 ![](/Images/INGreturnanalysis20082010.jpg)
 
 * Builded Model 2 for weekly return estimation through a retrospective time period selection and weighted return per yearly exponential decay.
 * Builded Model 3 to control model 2 through the same time period and weighted return per yearly decay through implemented Exponential Moving Average (EMA).
+
 ![](/Images/INGretrospectivereturnanalysis12years.jpg)
 
 * Builded Cross-model of Model 1 and Model 2 to reach best mmodel for forecast.
+
 ![](/Images/INGreturncrossanalysis2008201012years.jpg)
