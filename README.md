@@ -12,7 +12,7 @@ data science portfolio
 * Implemented a search engine to access identification of shares on the market from API 
 * Preprocessed data from daily open and close prices to daily return.
 
-## EDA: Estimated return of ING Bank share price
+## EDA exemplary on estimated return of ING Bank share price
 * Builded Model 1 for weekly return estimation through a flexible time period selection and equally weighted return per year.
 ![](/Images/INGreturnanalysis20082010.jpg)
 
