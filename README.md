@@ -12,7 +12,7 @@ data science portfolio
 
 ## Data cleaning
 * Implemented a search engine to access identification of shares on the market from API 
-* cleared datafrom irrelevant metrics and time periods.
+* cleared data from irrelevant metrics and time periods.
 * Preprocessed data from daily open and close prices to daily return.
 * Preprocessed daily return (equal) weighted weekly return.
 
