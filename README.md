@@ -3,7 +3,7 @@ data science portfolio
 # Project 1 overview: Estimator of weekly return on share price
 * Created a tool that estimates the return per calendar week of a share to help private investors get a broad timing for orders over the year.
 * Implemented an exponential decay to optimize Exponential Moving Average (EMA).
-* Builded various models to reach best forecast for weekly return.
+* Builded various models to reach best forecast for (equal) weighted weekly return.
 
 ## Code and resources used
 * Python 3.9.15.
