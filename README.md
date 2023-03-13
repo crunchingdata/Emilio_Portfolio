@@ -6,6 +6,6 @@ data science portfolio
 * Working per share on about in example ING Bank~[5877 rows x 9 columns] covering 20+ years of historical data from same API.
 * Preprocessed data from daily open and close prices to daily return with Python and library Pandas.
 * Model 1 for the weekly return estimation through flexible timeperiod selection and equaly weighted year relevanz for the return.
-* Model 2 for the weekly return estimation through felxible retrospective timeperiod and exponential weighted year relevanz for the return.
-* Model 3 for the weekly return estimation through felxible retrospective timeperiod and weighted year relevanz implemented with the Formula for Exponential Moving Average (EMA), thus is Model 3 created for control of Model 2.
+* Model 2 for the weekly return estimation through felxible retrospective timeperiod selction and exponential weighted year relevanz for the return.
+* Model 3 for the weekly return estimation through same timeperiod as Model 2 and weighted year relevanz implemented with the Formula for Exponential Moving Average (EMA), thus is Model 3 created for control of Model 2.
 * Crossmodel of Model 1 and Model 2 for more security of the forecast.
