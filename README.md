@@ -12,7 +12,9 @@ data science portfolio
 
 ## Data cleaning
 * Implemented a search engine to access identification of shares on the market from API 
+* cleared datafrom irrelevant metrics and time periods.
 * Preprocessed data from daily open and close prices to daily return.
+* Preprocessed daily return (equal) weighted weekly return.
 
 ## EDA exemplary on estimated return of ING Bank share price
 * Builded Model 1 for weekly return estimation through a flexible time period selection and equally weighted return per year.
