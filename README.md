@@ -29,3 +29,5 @@ data science portfolio
 * Built Cross-model of Model 1 and Model 2 to reach best model for forecast.
 
 ![](/Images/INGreturncrossanalysis2008201012years.jpg)
+
+## Model Building
