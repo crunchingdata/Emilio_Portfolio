@@ -14,7 +14,7 @@ data science portfolio
 * Packages: pandas, numpy, math, plotly.express, plotly.graph_objects, requests, json.
 * dataset: per company on about exemplary ING Bank~[5877 rows x 9 columns] covering 20+ years of historical data from API https://www.alphavantage.co/.
 
-## Example: Estimated return of ING Bank
+## Example: Estimated return of ING Bank share price
 
 ![](/Images/INGreturnanalysis20082010.jpg)
 ![](/Images/INGretrospectivereturnanalysis12years.jpg)
