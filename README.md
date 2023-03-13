@@ -12,6 +12,6 @@ data science portfolio
 
 Example: Estimated return for ING Bank:
 
-![](https://github.com/crunchingdata/Emilio_Portfolio/blob/main/Images/INGretrospectivereturnanalysis12years.jpg)
+![](https://github.com/crunchingdata/Emilio_Portfolio/blob/main/Images/INGreturnanalysis20082010.jpg)
 ![](https://github.com/crunchingdata/Emilio_Portfolio/blob/main/Images/INGretrospectivereturnanalysis12years.jpg)
 ![](https://github.com/crunchingdata/Emilio_Portfolio/blob/main/Images/INGreturncrossanalysis2008201012years.jpg)
