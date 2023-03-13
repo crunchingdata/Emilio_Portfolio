@@ -2,9 +2,10 @@
 data science portfolio
 # Project 1 overview: Estimator of weekly return on share price
 * Created a tool that estimates the return per calendar week of a share to help investors get a broad timing for orders over the year. 
-* Implemented a search engine that permits access to identification of most shares on the market from API https://www.alphavantage.co/
-* Working per share on about like in example ING~[5877 rows x 9 columns] covering 20+ years of historical data from same API.
-* preprocessed data to daily open and close prices and transformed them to daily return with Python and library Pandas.
-* time period
-* exponential
-* crossfilter
+* Implemented a search engine that accesses the identification of most shares on the market from API https://www.alphavantage.co/
+* Working per share on about in example ING~[5877 rows x 9 columns] covering 20+ years of historical data from same API.
+* Preprocessed data from daily open and close prices to daily return with Python and library Pandas.
+* Model 1 for the weekly return estimation through flexible timeperiod selection and equaly weighted year relevanz for the return.
+* Model 2 for the weekly return estimation through felxible retrospective timeperiod and exponential weighted year relevanz for the return.
+* Model 3 for the weekly return estimation through felxible retrospective timeperiod and weighted year relevanz implemented with the Formula for Exponential Moving Average (EMA), thus is Model 3 created for control of Model 2.
+* Crossmodel of Model 1 and Model 2 for more security of the forecast.
