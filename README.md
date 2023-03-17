@@ -33,8 +33,9 @@ data science portfolio
 ## Model Building
 I started the model building by interpreting the goal of predicting return development of a share price. So, first I buildt Model 1 since a relevant argument usually is, that there likely could be a repetition of past events in the current ones and with thies events a similar development in the share price. In Model 1 is to set a timeperiod with bounding years. Exemplary 2008-2010: Thies will show yearly overlapping and equal weighted weekly return through the post the finance crisis 2008, if it is wished to compare it with the current developement post Covid-19 and ucrainian war. 
 Secondly, with Model 2 I applied a common forecast technic of projecting past developement, thus weighting yearly return from current return back to the return of past years with exponential decay. Model 2 was necesary to control in Model 3 with an often used metric here the Exponential Moving Average (EMA) to confirm return estimation.
-* At this point there where three main problems to solve: price difference over time, inaccuracy of the exact week for a certain return and the irregular calendar week 53. 
-* Solution respectively: usage of percentage, taking in account a moving three week average and making a case distinction.
+* At this point there where three main problems to solve: price difference over time, inaccuracy of the exact week for a certain return, the irregular calendar week 53 and setting a visual for return over +/- developements of more that one week.
+* Solution respectively: usage of percentage, taking in account a moving three week average, making a case distinction and bounding a accumulated return to the sign of the three week average. 
+At least, I buildt the corss-model, so that the 
 ## Instructions of use
 * Model 1: Here is to select a time period with similar events. 
 * Model 2: Time period will end with weight 10% consideration of the oldest year. The decay factor is been calculated through the total of years of the period. Young years are considered heavy in account.
