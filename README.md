@@ -38,7 +38,8 @@ Secondly, with Model 2 I applied a common forecast technic for trend continuing 
 * At this point there where three main problems to solve: price difference over time, inaccuracy of the exact week for a certain return, the irregular calendar week 53 and setting a visual for return over +/- developements of more that one week.
 * Solution respectively: usage of percentage, taking in account a moving three week average, making a case distinction and bounding a accumulated return to the sign of the three week average.
 
-At least, I buildt a cross-model, that combines Model 1 with Model 2 in order to combine estimation based on both arguments for return estimation: compare the current period with a past period and continuing a current trend. Due to more scattering by more years the extrem values in a model decrease while period length increases. The estimation through the cross model works best, if the periods of Model 1 and Model 2 are of similar length. +/- return periods remain untouched by this.
+At least, I buildt a cross-model, that combines Model 1 with Model 2 in order to combine estimation based on both arguments for return estimation: compare the current period with a past period and continuing a current trend. 
+* Due to more scattering by more years the extrem values in a model decrease while period length increases. The estimation through the cross model works best, if the periods of Model 1 and Model 2 are of similar length. +/- return periods remain untouched by this.
 ## Instructions of use
 * Model 1: Here is to select a time period with similar events as the current ones. 
 * Model 2: 
