@@ -36,6 +36,7 @@ So, first I buildt Model 1 since a relevant argument usually is, that there like
 Secondly, with Model 2 I applied a common forecast technic of projecting past developement, thus weighting yearly return from current return back to the return of past years with exponential decay. Model 2 was necesary to control in Model 3 with an often used metric here the Exponential Moving Average (EMA) to confirm return estimation.
 * At this point there where three main problems to solve: price difference over time, inaccuracy of the exact week for a certain return, the irregular calendar week 53 and setting a visual for return over +/- developements of more that one week.
 * Solution respectively: usage of percentage, taking in account a moving three week average, making a case distinction and bounding a accumulated return to the sign of the three week average.
+
 At least, I buildt the corss-model, so that the 
 ## Instructions of use
 * Model 1: Here is to select a time period with similar events. 
