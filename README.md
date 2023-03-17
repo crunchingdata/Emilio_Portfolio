@@ -31,7 +31,7 @@ data science portfolio
 ![](/Images/INGreturncrossanalysis2008201012years.jpg)
 
 ## Model Building
-<p align="justify"
+<p align="justify">
 I started the model building by interpreting the goal of predicting return development of a share price. <br>
 So, first I buildt Model 1 since a relevant argument usually is, that there likely could be a repetition of past events in the current ones and with thies events a similar development in the share price. In Model 1 is to set a timeperiod with bounding years. Exemplary 2008-2010: Thies will show yearly overlapping and equal weighted weekly return through the post the finance crisis 2008, if it is wished to compare it with the current developement post Covid-19 and ucrainian war. <br>
 Secondly, with Model 2 I applied a common forecast technic for a trend continuing past developement, thus weighting yearly return from current return back to the return of past years with exponential decay. Model 2 was necesary to control in Model 3 with an often used metric here the Exponential Moving Average (EMA) to confirm return estimation. </p>
