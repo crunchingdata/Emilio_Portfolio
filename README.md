@@ -39,7 +39,7 @@ Secondly, with Model 2 I applied a common forecast technic for a trend continuin
 *At this point there where three main problems to solve: price difference over time, inaccuracy of the exact week for a certain return, the irregular calendar week 53 and setting a visual for return over +/- developements of more that one week. <br>
 Solution respectively: usage of percentage, taking in account a moving three week average, making a case distinction and bounding a accumulated return to the sign of the three week average.
 
-<p align="justify"> At least, I buildt a cross-model, that combines Model 1 with Model 2 in order to combine estimation based on both arguments, compare the current period with a past period and continuing a current trend.</p>
+At least, I buildt a cross-model, that combines Model 1 with Model 2 in order to combine estimation based on both arguments, compare the current period with a past period and continuing a current trend.
 ## Instructions of use
 * Model 1: Here is to select a time period with similar events. 
 * Model 2: Time period will end with weight 10% consideration of the oldest year. The decay factor is been calculated through the total of years of the period. Young years are considered heavy in account.
