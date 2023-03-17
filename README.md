@@ -32,8 +32,7 @@ data science portfolio
 
 ## Model Building
 I started with interpreting the goal of predicting return development of a share price. So, first I buildt Model 1 since a relevant argument usually is, that there likely could be a repetition of past events in the current ones and with thies events a similar development in the share price. Secondly, with Model 2 I applied a common forecast technic of projecting past developement, thus weighting yearly return from current return back through exponential decay. Model 2 was necesary to control with an often used metric by private investors the Exopnential Moving average (EMA) in Model 3 to confirm return estimation.
-* At this point there where three main problems to solve: price difference over time, uncertainty of return dexelopement at an exact week and the irregular calendar week 53. 
-** Solution respectively: usage of percentage, taking in account a moving three week average and making a case distinction.
+* At this point there where three main problems to solve: price difference over time, uncertainty of return dexelopement at an exact week and the irregular calendar week 53. Solution respectively: usage of percentage, taking in account a moving three week average and making a case distinction.
 * Model 1: Here is to select a time period with similar events. Exemplary the period post the finance crisis 2008 and current post Covid-19 and ucrainian war.
 * Model 2: Time period will end with weight 10% consideration of the oldest year. The decay factor is been calculated through the total of years of the period. Young years are considered heavy in account.
 * Model 3: 
