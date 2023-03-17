@@ -3,7 +3,7 @@ data science portfolio
 # Project 1 overview: Estimator of weekly return on share price
 * Created a tool that estimates the return per calendar week of a share to help private investors get a broad timing for orders over the year.
 * Implemented an exponential decay to optimize Exponential Moving Average (EMA).
-* Built various models to reach best forecast for (equal) weighted average weekly return.
+* Built various models to reach best forecast through (equal) weighted average for weekly return.
 
 ## Code and resources used
 * Python 3.9.15.
@@ -31,9 +31,9 @@ data science portfolio
 ![](/Images/INGreturncrossanalysis2008201012years.jpg)
 
 ## Model Building
-First I interpreted the goal of predicting return development of a share price. So, first I buildt Model 1 because a relevant argument is, that there could be liekly a repetition of events of the current ones in the past and with them a similar development of values in the stock market. Second, I applied with Model 2 a common forecasting technik of projecting past developement, thus taking past from current year back through exponential decay. For this it was necesary to control the outcome with an often used metric by private investors, the Expnential Moving average (EMA) at Model 3. 
-At this point there where three main problems to solve: price differenz over time, uncertainty of the exact week and the irregular calendar week 53.
-* Solution: usage of percentage, taking in account a moving three week average and making a case distinction.
+I started with interpreting the goal of predicting return development of a share price. So, first I buildt Model 1 since a relevant argument usually is, that there likely could be a repetition of past events in the current ones and with thies events a similar development in the share price. Secondly, with Model 2 I applied a common forecast technic of projecting past developement, thus weighting yearly return from current return back through exponential decay. Model 2 was necesary to control with an often used metric by private investors the Exopnential Moving average (EMA) in Model 3 to confirm return estimation.
+* At this point there where three main problems to solve: price difference over time, uncertainty of return dexelopement at an exact week and the irregular calendar week 53. 
+** Solution respectively: usage of percentage, taking in account a moving three week average and making a case distinction.
 * Model 1: Here is to select a time period with similar events. Exemplary the period post the finance crisis 2008 and current post Covid-19 and ucrainian war.
 * Model 2: Time period will end with weight 10% consideration of the oldest year. The decay factor is been calculated through the total of years of the period. Young years are considered heavy in account.
 * Model 3: 
