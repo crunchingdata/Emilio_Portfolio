@@ -42,5 +42,5 @@ At least, I buildt a cross-model, that combines Model 1 with Model 2 in order to
 * Problem: Due to more scattering by more years the extrem values in a model decrease while period length increases. 
 * Solution: Weighting the values of the Model with minor absolute values, so that values of Model 1 and Model 2 have in total the same length. The minor values have to be changed, because the mayor values are supposed to come from a shorter period, so a more realistic return estimation due to scattering.
 ## Instructions of use
-* Model 1: Here is to select a time period with similar events as the current ones. 
-* Model 2: Here is to select the number of years to set the length of the time period. Time period will start with weight 10% on return of the oldest year. The decay factor is been calculated through the total of years of the period. Young years are considered heavy in account.
+* Model 1: Herefor is to input a time period with similar events as the current ones. 
+* Model 2: Herefor is to input the number of years to set the length of the time period. Time period will start with weight 10% on return of the oldest year. The decay factor is been calculated through the total of years of the period. Young years are considered heavy in account.
