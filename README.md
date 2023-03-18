@@ -40,7 +40,7 @@ Secondly, with Model 2 I applied a common forecast technic for trend continuing 
 
 At least, I built a cross-model, that combines Model 1 with Model 2 in order to combine estimation based on both arguments for return estimation: compare the current period with a past period and continuing a current trend.
 * Problem: Due to more scattering by more years the extreme values in Model 1 or 2 decrease while the period length increases. 
-* Solution: Weighting the values of the Model with minor absolute values, so that values of Model 1 and Model 2 have in total the same length. The minor values have to be changed, because the mayor values are supposed to come from a shorter period, so a more realistic return estimation due to scattering.
+* Solution: Weighting the values of the Model with minor absolute values, so that values of Model 1 and Model 2 have in total the same length. The minor values have to be changed, because the mayor values are supposed to come from a shorter period, so a more realistic return estimation due to less scattering.
 ## Instructions of use
 * Model 1: Here  is to input a time period with similar events as the current ones. 
 * Model 2: Here is to input the number of years to set the length of the time period. The time period will start with weight 10% on return of the most old year. The decay factor is being calculated through the total of years of the period. Young years are considered heavy into account.
