@@ -13,4 +13,4 @@ data science portfolio
 
 # [Project 2: Playing statistics and regressions](https://github.com/crunchingdata/Estimator_of_weekly_return_on_share_price)
 * Created a Code with fundamental statistical and regressional concepts.
-![](/Images/INGreturnanalysis20082010.jpg)
+![](/Images/Scatter_plot_with_lin_regression.jpg)
