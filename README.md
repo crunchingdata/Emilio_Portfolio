@@ -11,6 +11,6 @@ data science portfolio
 
 ![](/Images/INGreturncrossanalysis2008201012years.jpg)
 
-# [Project 2: Playing statistics and regressions](https://crunchingdata.github.io/statistical_and_regressional_concepts)
+# [Project 2: Statistics and Regressions](https://crunchingdata.github.io/statistical_and_regressional_concepts)
 * Created a Code with fundamental statistical and regressional concepts.
 ![](/Images/Scatter_plot_with_lin_regression.jpg)
