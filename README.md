@@ -11,6 +11,6 @@ data science portfolio
 
 ![](/Images/INGreturncrossanalysis2008201012years.jpg)
 
-# [Project 2: Linear regression and error handling](https://crunchingdata.github.io/linear_regression_and_error_handling/)
+# [Project 2: Linear regression and error handling](https://crunchingdata.github.io/Linear_regression_and_error_handling/)
 * Created a Code with fundamental statistical and regressional concepts.
 ![](/Images/Scatter_plot_with_lin_regression.jpg)
