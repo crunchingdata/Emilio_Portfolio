@@ -16,6 +16,6 @@ data science portfolio
 * Controlled accuracy of the linear regression with MSE, MAE, coefficient of determination and RMSE.
 * Compared linear regression trough machine learning with linear regression through math.
 
-![](/images/scatterplot_with_corridor_68_data_math.jpg)
+![](/Images/scatterplot_with_corridor_68_data_math.jpg)
 
-![](/images/ML_red_vs_Math_blue_scatterplot.jpg)
+![](/Images/ML_red_vs_Math_blue_scatterplot.jpg)
