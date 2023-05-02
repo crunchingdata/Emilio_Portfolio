@@ -13,7 +13,7 @@ data science portfolio
 
 # [Project 2: Linear regression and model performance](https://github.com/crunchingdata/Linear_regression_and_error_handling)
 * Implemented linear reggression for revenue prognostic through machine learning and math.
-* Controlled accuracy of the linear regression through MSE, MAE, coefficient of determination and RMSE.
+* Controlled accuracy of the linear regression with MSE, MAE, coefficient of determination and RMSE.
 * Compared linear regression trough machine learning with linear regression through math.
 
 ![](/images/scatterplot_with_corridor_68_data_math.jpg)
