@@ -18,4 +18,4 @@ data science portfolio
 
 ![](/Images/ML_red_vs_Math_blue_scatterplot.jpg)
 
-![](/Images/scatterplot_with_corridor_68_data_math.jpg)
+![](/Images/scatterplot_with_corridor_68%_data_math.jpg)
