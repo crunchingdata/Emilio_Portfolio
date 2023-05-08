@@ -12,10 +12,10 @@ data science portfolio
 ![](/Images/INGreturncrossanalysis2008201012years.jpg)
 
 # [Project 2: Linear regression - math vs. machine learning](https://github.com/crunchingdata/Linear_regression_-_math_vs_machine_learning)
-* Implemented linear reggression for revenue prognostic through machine learning and math.
-* Controlled accuracy of the linear regression with MSE, MAE, coefficient of determination and RMSE.
+* Implemented linear regression for revenue prognostic through machine learning and math.
+* Controlled accuracy of the linear regression through MSE, MAE, coefficient of determination and RMSE.
 * Compared linear regression trough machine learning with linear regression through math.
 
-![](/Images/scatterplot_with_corridor_68_data_math.jpg)
-
 ![](/Images/ML_red_vs_Math_blue_scatterplot.jpg)
+
+![](/Images/scatterplot_with_corridor_68_data_math.jpg)
