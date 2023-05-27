@@ -27,4 +27,4 @@ https://github.com/aapci/Fruit-Sales-Data-Analysis
 * Controlled accuracy of the linear regression through MSE, MAE, coefficient of determination and RMSE.
 * Compared linear regression trough machine learning with linear regression through math.s
 
-![](/Images/Dashboard_Covid-19_until_17-05-23.jpg)
+![](/Images/Dashboard_Covid-19_until_17-05-2023.jpg)
