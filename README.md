@@ -18,11 +18,14 @@ This is my data science portfolio. For details on a project click on the title o
 
 [![](/Images/ML_red_vs_Math_blue_scatterplot.jpg)](https://github.com/crunchingdata/Linear_regression_-_math_vs_machine_learning)
 
-https://github.com/aapci/Fruit-Sales-Data-Analysis
-
 # [Power BI Project 1: Visualisation of Covid-19 data until 17.05.23](https://app.powerbi.com/view?r=eyJrIjoiYThmMjJkOGYtOTM3My00ODZiLWJkODYtZTU0NDA5NTgzNDA3IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
 
 * Implemented visuals pie, line and area chart with cards to display insights of the dataset.  
 * Splitted the dataset for distinguishing actual status at 17.05.23 and historical developements for better performance.
 
 [![](/Images/Dashboard_Covid-19_until_17-05-2023.jpg)](https://app.powerbi.com/view?r=eyJrIjoiYThmMjJkOGYtOTM3My00ODZiLWJkODYtZTU0NDA5NTgzNDA3IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
+
+# [Power BI Project 1: Visualisation of sales and inventory of fruits and vegetables](https://app.powerbi.com/view?r=eyJrIjoiYThmMjJkOGYtOTM3My00ODZiLWJkODYtZTU0NDA5NTgzNDA3IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
+* Implemented visuals funnel, line, area, bar, donut chart and scatter plot with cards to display insights of the dataset.  
+* Merged the dataset and removed inconsistencys from it without deleting data.
+* Dataset is open source from [aapci][https://github.com/aapci/Fruit-Sales-Data-Analysis], thanks.
