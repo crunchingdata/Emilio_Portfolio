@@ -25,6 +25,6 @@ https://github.com/aapci/Fruit-Sales-Data-Analysis
 # [Power BI Project 1: Visualisation of Covid-19 data until 17.05.23](https://app.powerbi.com/view?r=eyJrIjoiNzMyZGI0ZmQtOTVjNS00NmU2LWE0MzAtMzViMjAzYmQ5YjU4IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
 
 * Implemented Visuals Pie, Line and Area chart with some cards to display insights of the dataset.  
-* Splitted the dataset for distinguishing actual status at 17.05.23 and historical developements.
+* Splitted the dataset for distinguishing actual status at 17.05.23 and historical developements for better performance.
 
 ![](/Images/Dashboard_Covid-19_until_17-05-2023.jpg)
