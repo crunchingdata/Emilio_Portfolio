@@ -22,4 +22,7 @@ data science portfolio
 
 https://github.com/aapci/Fruit-Sales-Data-Analysis
 
-# [Power BI Project 1: Reportbuilding for Covid-19 data until 17.05.23](https://app.powerbi.com/view?r=eyJrIjoiNzMyZGI0ZmQtOTVjNS00NmU2LWE0MzAtMzViMjAzYmQ5YjU4IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
+# [Power BI Project 1: Visualisation of Covid-19 data until 17.05.23](https://app.powerbi.com/view?r=eyJrIjoiNzMyZGI0ZmQtOTVjNS00NmU2LWE0MzAtMzViMjAzYmQ5YjU4IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
+
+* Controlled accuracy of the linear regression through MSE, MAE, coefficient of determination and RMSE.
+* Compared linear regression trough machine learning with linear regression through math.
