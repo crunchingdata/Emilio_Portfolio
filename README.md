@@ -18,8 +18,6 @@ This is my data science portfolio. For details on a project click on the title o
 
 [![](/Images/ML_red_vs_Math_blue_scatterplot.jpg)](https://github.com/crunchingdata/Linear_regression_-_math_vs_machine_learning)
 
-[![](/Images/scatterplot_with_corridor_68%_data_math.jpg)](https://github.com/crunchingdata/Linear_regression_-_math_vs_machine_learning)
-
 https://github.com/aapci/Fruit-Sales-Data-Analysis
 
 # [Power BI Project 1: Visualisation of Covid-19 data until 17.05.23](https://app.powerbi.com/view?r=eyJrIjoiYThmMjJkOGYtOTM3My00ODZiLWJkODYtZTU0NDA5NTgzNDA3IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
