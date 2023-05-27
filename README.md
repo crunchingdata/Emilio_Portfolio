@@ -29,3 +29,5 @@ This is my data science portfolio. For details on a project click on the title o
 * Implemented funnel, line, area, bar, donut chart and scatter plot with cards to display insights of the dataset.  
 * Merged the dataset and removed inconsistencies from it without deleting data.
 * The dataset is open source from [aapci](https://github.com/aapci/Fruit-Sales-Data-Analysis), thanks.
+
+[![](/Images/Sales and Inventory.jpg)](https://app.powerbi.com/view?r=eyJrIjoiMjExYmIwMmItM2MzMC00NDdjLWIyZTYtNmU3ZGE3OTIyYzY0IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
