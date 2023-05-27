@@ -16,9 +16,9 @@ This is my data science portfolio. For details on a project click on the title o
 * Controlled accuracy of the linear regression through MSE, MAE, coefficient of determination and RMSE.
 * Compared linear regression trough machine learning with linear regression through math.
 
-![](/Images/ML_red_vs_Math_blue_scatterplot.jpg)
+[![](/Images/ML_red_vs_Math_blue_scatterplot.jpg)](https://github.com/crunchingdata/Linear_regression_-_math_vs_machine_learning)
 
-![](/Images/scatterplot_with_corridor_68%_data_math.jpg)
+[![](/Images/scatterplot_with_corridor_68%_data_math.jpg)](https://github.com/crunchingdata/Linear_regression_-_math_vs_machine_learning)
 
 https://github.com/aapci/Fruit-Sales-Data-Analysis
 
