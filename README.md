@@ -28,4 +28,4 @@ This is my data science portfolio. For details on a project click on the title o
 # [Power BI Project 1: Visualisation of sales and inventory of fruits and vegetables](https://app.powerbi.com/view?r=eyJrIjoiYThmMjJkOGYtOTM3My00ODZiLWJkODYtZTU0NDA5NTgzNDA3IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
 * Implemented visuals funnel, line, area, bar, donut chart and scatter plot with cards to display insights of the dataset.  
 * Merged the dataset and removed inconsistencys from it without deleting data.
-* Dataset is open source from [aapci][https://github.com/aapci/Fruit-Sales-Data-Analysis], thanks.
+* Dataset is open source from [aapci](https://github.com/aapci/Fruit-Sales-Data-Analysis), thanks.
