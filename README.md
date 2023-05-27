@@ -27,4 +27,4 @@ https://github.com/aapci/Fruit-Sales-Data-Analysis
 * Implemented visuals pie, line and area chart with cards to display insights of the dataset.  
 * Splitted the dataset for distinguishing actual status at 17.05.23 and historical developements for better performance.
 
-![](/Images/Dashboard_Covid-19_until_17-05-2023.jpg)(https://app.powerbi.com/view?r=eyJrIjoiNzMyZGI0ZmQtOTVjNS00NmU2LWE0MzAtMzViMjAzYmQ5YjU4IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
+[![](/Images/Dashboard_Covid-19_until_17-05-2023.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNzMyZGI0ZmQtOTVjNS00NmU2LWE0MzAtMzViMjAzYmQ5YjU4IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
