@@ -18,12 +18,12 @@ This is my data science portfolio. For details on a project click on the title o
 
 [![](/Images/ML_red_vs_Math_blue_scatterplot.jpg)](https://github.com/crunchingdata/Linear_regression_-_math_vs_machine_learning)
 
-# [Power BI Project 1: Visualisation of Covid-19 data until 17.05.23](https://app.powerbi.com/view?r=eyJrIjoiYThmMjJkOGYtOTM3My00ODZiLWJkODYtZTU0NDA5NTgzNDA3IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
+# [Power BI Project 1: Visualisation of Covid-19 data](https://app.powerbi.com/view?r=eyJrIjoiMTAyOTA5NTEtYTI4ZS00OTdiLWJmNDItZTFiMTYzMWEyMGZkIiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
 
 * Implemented pie, line and area chart with cards to display insights of the dataset [owid-covid-data.csv](https://github.com/owid/covid-19-data/tree/master/public/data).  
-* Splitted the dataset for distinguishing actual status at 17.05.23 and historical developements for better performance.
+* Splitted the dataset for distinguishing actual status, if automated import is refreshed, and historical developements for better performance.
 
-[![](/Images/Dashboard_Covid-19_until_17-05-2023.jpg)](https://app.powerbi.com/view?r=eyJrIjoiYThmMjJkOGYtOTM3My00ODZiLWJkODYtZTU0NDA5NTgzNDA3IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
+[![](/Images/Dashboard_Covid-19_until_17-05-2023.jpg)](https://app.powerbi.com/view?r=eyJrIjoiMTAyOTA5NTEtYTI4ZS00OTdiLWJmNDItZTFiMTYzMWEyMGZkIiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
 
 # [Power BI Project 2: Visualisation of sales and inventory on fruits and vegetables](https://app.powerbi.com/view?r=eyJrIjoiMjExYmIwMmItM2MzMC00NDdjLWIyZTYtNmU3ZGE3OTIyYzY0IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
 * Implemented funnel, line, area, bar, donut chart and scatter plot with cards to display insights of the dataset [Fruit Sales Data - Inventory and Sales.xlsx](https://github.com/aapci/Fruit-Sales-Data-Analysis).  
