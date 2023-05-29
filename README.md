@@ -21,7 +21,8 @@ This is my data science portfolio. For details on a project click on the title o
 # [Power BI Project 1: Visualisation of Covid-19 data](https://app.powerbi.com/view?r=eyJrIjoiYmYzZDE2OWQtNTQxNS00NWMxLWI2YzItOGEyMDJjZjgxM2QzIiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
 
 * Implemented pie, line and area chart with cards to display insights of the dataset [owid-covid-data.csv](https://github.com/owid/covid-19-data/tree/master/public/data).  
-* Splitted the dataset for distinguishing actual status, if automated import is refreshed, and historical developements for better performance.
+* Splitted the dataset for distinguishing actual status, if import is refreshed, and historical developements for better performance.
+* First worked with the dataset as a downloaded .csv-file, afterwards replaced the source with the conection to the automatically updated file from the [GiHub-Repository](https://github.com/owid/covid-19-data/tree/master/public/data).
 
 [![](/Images/Dashboard_Covid-19_until_17-05-2023.jpg)](https://app.powerbi.com/view?r=eyJrIjoiYmYzZDE2OWQtNTQxNS00NWMxLWI2YzItOGEyMDJjZjgxM2QzIiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
 
