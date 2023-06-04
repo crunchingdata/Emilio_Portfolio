@@ -26,7 +26,7 @@ This is my data science portfolio. For details on a project click on the title o
 
 [![](/Images/Dashboard_Covid-19_until_17-05-2023.jpg)](https://app.powerbi.com/view?r=eyJrIjoiYmYzZDE2OWQtNTQxNS00NWMxLWI2YzItOGEyMDJjZjgxM2QzIiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9&pageName=ReportSectione8f96f79bd5e07a9c7db)
 
-# [Power BI Project 2: Visualization of sales and inventory on fruits and vegetables](https://app.powerbi.com/view?r=eyJrIjoiMjExYmIwMmItM2MzMC00NDdjLWIyZTYtNmU3ZGE3OTIyYzY0IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
+# [Power BI Project 2: Visualization of sales on fruits and vegetables](https://app.powerbi.com/view?r=eyJrIjoiMjExYmIwMmItM2MzMC00NDdjLWIyZTYtNmU3ZGE3OTIyYzY0IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
 * Implemented funnel, line, area, bar, donut chart and scatter plot with cards to display insights of the dataset [Fruit Sales Data - Inventory and Sales.xlsx](https://github.com/aapci/Fruit-Sales-Data-Analysis).  
 * Merged the dataset and removed inconsistencies from it without deleting data.
 
