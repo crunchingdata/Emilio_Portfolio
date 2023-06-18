@@ -10,7 +10,7 @@ This is my data science portfolio.
 
 ![](/Images/INGretrospectivereturnanalysis12years.jpg)
 
-![](/Images/INGreturncrossanalysis2008201012years.jpg)
+!(/Images/INGreturncrossanalysis2008201012years.jpg)
 
 # [Python Project 2: Linear regression - math vs. machine learning](https://github.com/crunchingdata/Linear_regression_-_math_vs_machine_learning)
 * Implemented linear regression for revenue prognostic through machine learning and math.
