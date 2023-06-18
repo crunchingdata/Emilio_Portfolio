@@ -35,7 +35,7 @@ This is my data science portfolio. For details on a project click on the title o
 
 # [Power BI & Python Project 1: Cancer prediction with Machine Learning Classification](https://crunchingdata.github.io/python_power_bi_cancer_predicition_ML/)
 * Trained Extrem Gradient Boosting ML-Model on Python with Pycaret and exported it.
-* Created a python environment for Power BI and connected Power BI to it. 
+* Created a Anaconda environment for Power BI and connected Power BI to it. 
 * Applied in Power BI the trained Extrem Gradient Boosting ML-Model for measuring Performance on training-dataset numerically and visually with metrics and Prediction of unseen dataset.
 
 
