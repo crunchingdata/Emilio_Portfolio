@@ -38,4 +38,4 @@ This is my data science portfolio. For details on a project click on the title o
 * Merged the dataset and removed inconsistencies from it without deleting data.
 
 
-[![](/Images/Sales_and_Inventory.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZjFkYzQ1ZjUtOGUwNi00MWU0LThkMWYtYzcyYzhmNzU5ZGFjIiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
+[![](/Images/cancer_predicition_ML.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZjFkYzQ1ZjUtOGUwNi00MWU0LThkMWYtYzcyYzhmNzU5ZGFjIiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
