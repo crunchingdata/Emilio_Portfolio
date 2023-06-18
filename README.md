@@ -17,7 +17,7 @@ This is my data science portfolio.
 * Controlled accuracy of the linear regression through MSE, MAE, coefficient of determination and RMSE.
 * Compared linear regression trough machine learning with linear regression through math.
 
-[![](/Images/ML_red_vs_Math_blue_scatterplot.jpg)]()
+![](/Images/ML_red_vs_Math_blue_scatterplot.jpg)
 
 # [Power BI Project 1: Visualization of Covid-19 data](https://github.com/crunchingdata/Emilio_Portfolio/tree/main)
 
