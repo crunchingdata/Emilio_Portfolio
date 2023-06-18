@@ -32,3 +32,10 @@ This is my data science portfolio. For details on a project click on the title o
 
 
 [![](/Images/Sales_and_Inventory.jpg)](https://app.powerbi.com/view?r=eyJrIjoiMjExYmIwMmItM2MzMC00NDdjLWIyZTYtNmU3ZGE3OTIyYzY0IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
+
+# [Power BI&Python Project 1: Cancer prediction with Machine Learning Classification](https://app.powerbi.com/view?r=eyJrIjoiZjFkYzQ1ZjUtOGUwNi00MWU0LThkMWYtYzcyYzhmNzU5ZGFjIiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
+* Implemented funnel, line, area, bar, donut chart and scatter plot with cards to display insights of the dataset [Fruit Sales Data - Inventory and Sales.xlsx](https://github.com/aapci/Fruit-Sales-Data-Analysis).  
+* Merged the dataset and removed inconsistencies from it without deleting data.
+
+
+[![](/Images/Sales_and_Inventory.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZjFkYzQ1ZjUtOGUwNi00MWU0LThkMWYtYzcyYzhmNzU5ZGFjIiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
