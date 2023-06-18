@@ -1,6 +1,6 @@
 # Emilio_Portfolio
 This is my data science portfolio. 
-*For details on a project click on its title. For User Interface on a image.
+*For details on a project click on its title. For Power BI projects visit the User Interface per click on a image.
 # [Python Project 1: Estimator of weekly return on share price](https://github.com/crunchingdata/Estimator_of_weekly_return_on_share_price)
 * Created a tool that estimates the return per calendar week of a share to help private investors get a broad timing for orders over the year.
 * Implemented an exponential decay to optimize Exponential Moving Average (EMA).
@@ -10,7 +10,7 @@ This is my data science portfolio.
 
 ![](/Images/INGretrospectivereturnanalysis12years.jpg)
 
-!(/Images/INGreturncrossanalysis2008201012years.jpg)
+![](/Images/INGreturncrossanalysis2008201012years.jpg)
 
 # [Python Project 2: Linear regression - math vs. machine learning](https://github.com/crunchingdata/Linear_regression_-_math_vs_machine_learning)
 * Implemented linear regression for revenue prognostic through machine learning and math.
