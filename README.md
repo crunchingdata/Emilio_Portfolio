@@ -34,7 +34,7 @@ This is my data science portfolio. For details on a project click on the title o
 [![](/Images/Sales_and_Inventory.jpg)](https://app.powerbi.com/view?r=eyJrIjoiMjExYmIwMmItM2MzMC00NDdjLWIyZTYtNmU3ZGE3OTIyYzY0IiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
 
 # [Power BI & Python Project 1: Cancer prediction with Machine Learning Classification](https://app.powerbi.com/view?r=eyJrIjoiZjFkYzQ1ZjUtOGUwNi00MWU0LThkMWYtYzcyYzhmNzU5ZGFjIiwidCI6ImFlOTE5MDJhLTU0MWUtNGQzMi1iZGRmLTJiYzc2ZWQxZGE4MiJ9)
-* Trained Extrem Gradient Boosting ML-Model on Python with Pycaret and exported it for Implementing on Power BI
+* Trained Extrem Gradient Boosting ML-Model on Python with Pycaret and exported it for Implementing on Power BI.
 * Created a python environment for Power BI and connected Power BI to it. 
 * Applied in Power BI the trained Extrem Gradient Boosting ML-Model for measuring Performance on training-dataset numerically and visually with metrics and Prediction of unseen dataset.
 
